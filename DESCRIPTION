@@ -1,5 +1,5 @@
 Package: babynames
-Title: US Baby Names 1880-2017
+Title: US Baby Names 1880-2024
 Version: 1.0.2
 Authors@R: 
     c(person(given = "Hadley",
